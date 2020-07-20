@@ -1,16 +1,30 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codehearts/portfolio/master/meta/heading.png" width="436px" alt="codehearts is catherine hart">
+</p>
 
-<!--
-**codehearts/codehearts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  and this is what's keeping her busy:
+  
+  <br>
+  <br>
+  
+  <a href="https://github.com/codehearts/remembear">
+    <img src="https://img.shields.io/badge/-remembear-ff7aab?style=flat-square&logo=rust&logoColor=white" alt="remembear">
+  </a>
+  <a href="https://github.com/codehearts/pickles-fetch-quest">
+    <img src="https://img.shields.io/badge/-pickles--fetch--quest-ff7aab?style=flat-square&logo=python&logoColor=white" alt="pickle's fetch quest">
+  </a>
+  <a href="https://github.com/codehearts/light-bubble">
+    <img src="https://img.shields.io/badge/-light--bubble-ff7aab?style=flat-square&logo=typescript&logoColor=white" alt="light bubble">
+  </a>
+<p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🎀
+  <a href="https://codehearts.com">portfolio</a> |
+  <a href="https://twitter.com/codehearts">twitter</a> |
+  <a href="https://linkedin.com/in/codehearts">linkedin</a>
+  🎀
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right">𝕓𝕝𝕒𝕔𝕜 𝕝𝕚𝕧𝕖𝕤 𝕞𝕒𝕥𝕥𝕖𝕣 ✊</p>
